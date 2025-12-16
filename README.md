@@ -113,15 +113,6 @@ Optimized scheduling reduced empty runs, cutting fuel consumption and lowering c
 
 ---
 
-## 👥 Team
-
-- **Project Lead:** Kofi Ameyaw — coordination & stakeholder communication  
-- **Data Modeler:** Wilson Erique — mathematical modeling & Python implementation  
-- **Operations Analyst:** Abdulkhodiy Nematov — solver research & results analysis  
-
----
-
-## 📁 Repository Structure
 
 ## 📁 Repository Structure
 
