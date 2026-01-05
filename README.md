@@ -32,6 +32,9 @@ This project develops a **data-driven optimization framework** to dynamically as
 
 The problem is formulated as a **Vehicle Scheduling Problem (VSP)** using Linear and Mixed Integer Programming.
 
+<img width="1326" height="772" alt="image" src="https://github.com/user-attachments/assets/31487f66-2d2e-445b-a143-18efe7805258" />
+
+
 **Key elements:**
 - Decision variables represent trips per bus type, route, and shift  
 - Objective function minimizes total trips (proxy for operational cost)  
@@ -47,9 +50,9 @@ The model is solved using **SCIP via Google OR-Tools**, enabling efficient handl
 
 ## 🛠 Tools & Technologies
 
-- Python  
+- Python, pywraplp
 - Google OR-Tools (SCIP Solver)  
-- pandas, NumPy  
+- pandas, NumPy, Matplotlib, math
 - Jupyter Notebook, Excel  
 - Linear & Mixed Integer Programming  
 
